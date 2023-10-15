@@ -6,7 +6,7 @@ The objective of this project was to learn how signing in users work on a bakcen
 
 To run it on your machine, start by cloning the repo with:
 ```bash
-git clone git@github.com:DijiOfficial/FullStack-Task-Manager-With-sqlite3.git
+git clone git@github.com:DijiOfficial/Custom-Sign-in-with-JS.git
 ```
 Move into the repo and download the dependencies with:
 ```bash
